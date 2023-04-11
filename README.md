@@ -56,7 +56,7 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- 𝐈𝐒𝐋𝐀𝐌
- 
+
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- 𝐀𝐝𝐫𝐢𝐘𝐚𝐧
